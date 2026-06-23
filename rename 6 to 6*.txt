@@ -1,0 +1,4 @@
+coder of east
+programmer of west
+developer of north
+debugger of south
